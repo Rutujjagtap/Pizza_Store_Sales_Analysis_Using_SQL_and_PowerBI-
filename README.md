@@ -3,8 +3,8 @@ By leveraging SQL queries, various analytical operations were performed to ident
 Through meticulous data cleansing and transformation using Power Query, a structured dataset conducive to in-depth analysis and showcasing trends, was obtained. Utilizing Power BI's robust visualization capabilities, insightful reports and dashboards were created to uncover trends, patterns, and key performance indicators (KPIs) in the pizza store's sales operations. This analysis not only provide valuable insights into sales performance but also aid in strategic decision-making, such as optimizing menu offerings, targeting specific customer segments, and enhancing overall business efficiency.
 
 TOOLS USED:
-- Ms Excel
-- Ms SQL Server and SQL Server Management Studio
+- MS Excel
+- MS SQL Server and SQL Server Management Studio
 - Power BI
 
 DATA SOURCE:
