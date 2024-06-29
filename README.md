@@ -10,3 +10,9 @@ Through meticulous data cleansing and transformation using Power Query, a struct
 
 ### Data Source:
 https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z
+
+### PowerBI Dashboard:
+
+![Pizza Sales Analysis Project DashBoard_page-0001](https://github.com/Rutujjagtap/Pizza_Store_Sales_Analysis_Using_SQL_and_PowerBI-/assets/160335838/26c03afb-d1e9-4f5d-84e6-5d7ee3207621)
+
+![Pizza Sales Analysis Project DashBoard_page-0002](https://github.com/Rutujjagtap/Pizza_Store_Sales_Analysis_Using_SQL_and_PowerBI-/assets/160335838/056aa32c-fdcc-4d29-9669-450ddd1c211c)
